@@ -1,0 +1,23 @@
+{
+    "version"           : "1.0.0",
+    "name"              : "WunschgutscheinPayment",
+    "marketplaceName"   : {"de":"Wunschgutschein","en":"Wunschgutschein"},
+    "license"           : "MIT",
+    "pluginIcon"        : "icon_plugin_xs.png",
+    "price"             : 0.00,
+    "description"       : "Wunschgutschein Payment dummy plugin for plentymarkets online stores",
+    "shortDescription"  : {"de": "Wunschgutschein Payment","en": "Wunschgutschein Payment"},
+    "categories"        : ["3519"],
+    "author"            : "Marcus Kreusch",
+    "authorIcon"        : "icon_author_xs.png",
+    "email"             : "info@kreusch-creative.de",
+    "phone"             : "",
+    "keywords"          : [],
+    "type"              : "payment",
+    "namespace"         : "WunschgutscheinPayment",
+    "serviceProvider"   : "WunschgutscheinPayment\\Providers\\WunschgutscheinPaymentServiceProvider",
+    "javaScriptFiles"   : [],
+    "containers"        : [],
+    "dataProviders"     : [],
+    "dependencies"      : []
+}
